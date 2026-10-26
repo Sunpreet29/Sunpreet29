@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Robotics, Machine Learning and Computer Vision projects.**
 
-- 📫 How to reach me **sunpreet.kochhar@rwth-aachen.de**
+- 📫 You can reach me through **sunpreet.kochhar@rwth-aachen.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,4 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sunpreet29&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Sunpreet29&show_icons=true&include_all_commits=true&theme=ambient_gradient)
 
 ### :computer: Most used languages
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=10&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=10&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=10&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=4&theme=highcontrast)
