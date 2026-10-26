@@ -1,6 +1,5 @@
 ![Code](https://github.com/Sunpreet29/Sunpreet29/blob/main/Picture1.png)
-<h1 align="center">Hi 👋, I'm Sunpreet Kochhar</h1>
-<h3 align="center">A passionate robotics engineer</h3>
+<h1 align="center">Hi 👋, I'm Sunpreet Kochhar, a passionate robotics and ML engineer</h1>
 
 <img align="right" alt="coding" width="400" height="320" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
@@ -20,4 +19,4 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sunpreet29&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Sunpreet29&show_icons=true&include_all_commits=true&theme=ambient_gradient)
 
 ### :computer: Most used languages
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=5&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=4&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=5&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Sunpreet29&langs_count=5&theme=highcontrast)
